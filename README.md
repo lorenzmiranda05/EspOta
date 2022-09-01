@@ -1,7 +1,7 @@
-### **#332 ESP32 OTA tutorial with tricks (incl. OTA debugging)**
-#### by Andreas Spiess of Andreas Spiess
+### **Over-the-Air ESP8266 programming using PlatformIO**
+#### by Jan Penninkhof of Jan Penninkhof
 
-[Youtube Video Link][Andreas Spiess]
+[Youtube Video Link][Jan Penninkhof]
 
 ---
 
@@ -16,9 +16,10 @@
 <br  />
 
 **Tasks**
+* [x] Connect to WiFi using ESP8266WiFi.h and credentials.h libraries
 * [ ] Create a basic OTA template for new projects
 
 
 <!-- Reusable and Invisible URL Definitions  -->
 [Github]: https://github.com
-[Andreas Spiess]: https://www.youtube.com/watch?v=1pwqS_NUG7Q
+[Jan Penninkhof]: https://www.youtube.com/watch?v=lXchL3hpDO4
