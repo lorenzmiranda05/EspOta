@@ -17,7 +17,7 @@
 
 **Tasks**
 * [x] Connect to WiFi using ESP8266WiFi.h and credentials.h libraries
-* [ ] Create a basic OTA template for new projects
+* [x] Create a basic OTA template for new projects
 
 
 <!-- Reusable and Invisible URL Definitions  -->
