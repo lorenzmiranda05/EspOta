@@ -12,7 +12,7 @@
 1. Microcontroller Board
     <br  />
     <br  />
-    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
+    ![github](https://raw.githubusercontent.com/lorenzmiranda05/EspOta/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
 
     | Microcontroller Board Details | | 
     | - | - | 
