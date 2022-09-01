@@ -9,7 +9,17 @@
 <br  />
 
 **Hardware**
-1. Microcontroller Development Board
+1. Microcontroller Board
+    <br  />
+    <br  />
+    ![github](https://raw.githubusercontent.com/lorenzmiranda05/PlatformIoEsp32Tutorial/main/Assets/Images/ESP8266%20ESP-12E%20MCU.png)
+
+    | Microcontroller Board Details | | 
+    | - | - | 
+    | Development Board | NodeMCU |
+    | Radio-Frequency (RF) Module | ESP12F |
+    | System-on-a-Chip (SoC) | ESP8266 |
+    <br  />
 1. Male USB A to Male USB Micro B Data Cable
 
 
